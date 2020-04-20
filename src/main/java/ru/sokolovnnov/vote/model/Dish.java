@@ -1,6 +1,10 @@
 package ru.sokolovnnov.vote.model;
 
+import java.time.LocalDate;
+
 public class Dish {
-    public String name;
-    public Integer price;
+    private Integer id;
+    private String name;
+    private Integer price;
+    private LocalDate date;
 }
