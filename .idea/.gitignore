@@ -1,0 +1,9 @@
+# Default ignored files
+/workspace.xml
+/$CACHE_FILE$
+/$PRODUCT_WORKSPACE_FILE$
+/$PROJECT_FILE$
+/compiler.xml
+/encodings.xml
+/misc.xml
+/qaplug_profiles.xml
